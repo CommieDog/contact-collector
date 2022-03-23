@@ -55,3 +55,16 @@ header ul
 header li {
     display: inline;
 }
+
+main {
+    margin-top: 250px;
+}
+
+input {
+    background-color: white;
+}
+
+.submit-button
+{
+    background-color: gray;
+}
