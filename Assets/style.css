@@ -45,12 +45,13 @@ nav {
     display: inline;
     float: right;
     margin-top: 80px;
+    margin-right: 80px;
 }
 
-header ul
+/*header ul
 {
     float: right;
-}
+}*/
 
 header li {
     display: inline;
